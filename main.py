@@ -2,7 +2,7 @@ from src.modulA import greeting
 
 
 def run():
-    greeting()
+    greeting(user="Marco")
 
 
 if __name__ == '__main__':

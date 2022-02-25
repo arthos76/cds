@@ -1,2 +1,2 @@
-def greeting():
-    print("HALLO")
+def greeting(user="Unbekannt"):
+    print(f"HALLO {user}")
