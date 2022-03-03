@@ -7,7 +7,7 @@ def greeting(user="Unbekannt"):
 
 # type hints: https://docs.python.org/3/library/typing.html (ab Python 3.5)
 
-def addition(a, b):
+def addition(a, b=None):
     if isinstance(a, (int, float)) and isinstance(b, (int, float)):
         result = a + b
     elif isinstance(a, str) and isinstance(b, str):
