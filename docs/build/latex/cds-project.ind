@@ -1,0 +1,10 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter A
+  \item \spxentry{addition()}\spxextra{in module src.modulA}, \hyperpage{1}
+
+\end{sphinxtheindex}
